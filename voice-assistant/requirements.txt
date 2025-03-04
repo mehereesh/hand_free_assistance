@@ -1,1 +1,1 @@
-pip install flusk
+flask
